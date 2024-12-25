@@ -1,0 +1,14 @@
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\lesson5HandsOn\bin\Debug\net9.0\lesson5HandsOn.exe
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\lesson5HandsOn\bin\Debug\net9.0\lesson5HandsOn.deps.json
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\lesson5HandsOn\bin\Debug\net9.0\lesson5HandsOn.runtimeconfig.json
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\lesson5HandsOn\bin\Debug\net9.0\lesson5HandsOn.dll
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\lesson5HandsOn\bin\Debug\net9.0\lesson5HandsOn.pdb
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\lesson5HandsOn\obj\Debug\net9.0\lesson5HandsOn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\lesson5HandsOn\obj\Debug\net9.0\lesson5HandsOn.AssemblyInfoInputs.cache
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\lesson5HandsOn\obj\Debug\net9.0\lesson5HandsOn.AssemblyInfo.cs
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\lesson5HandsOn\obj\Debug\net9.0\lesson5HandsOn.csproj.CoreCompileInputs.cache
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\lesson5HandsOn\obj\Debug\net9.0\lesson5HandsOn.dll
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\lesson5HandsOn\obj\Debug\net9.0\refint\lesson5HandsOn.dll
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\lesson5HandsOn\obj\Debug\net9.0\lesson5HandsOn.pdb
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\lesson5HandsOn\obj\Debug\net9.0\lesson5HandsOn.genruntimeconfig.cache
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\lesson5HandsOn\obj\Debug\net9.0\ref\lesson5HandsOn.dll
